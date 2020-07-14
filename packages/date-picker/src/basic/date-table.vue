@@ -22,7 +22,7 @@
         :key="key">
         <div>
           <span>
-            {{ cell.text }}
+            {{ cell.text }} chenxiao
           </span>
         </div>
       </td>
